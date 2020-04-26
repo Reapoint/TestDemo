@@ -1,3 +1,5 @@
 public class Test {
-    public class student{};
+    public class student{
+        int ss;
+    };
 }
